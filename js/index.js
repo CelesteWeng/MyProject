@@ -9,7 +9,7 @@ var activeList = $("active_list")
 var pageDate = [{
         img_src: './img/page/sheji.png',
         title: '设计图还原',
-        dome_src: 'https://woshihuasheng.github.io/qwe/index',
+        dome_src: 'https://celesteweng.github.io/qwe/index',
         num: '查看：50次',
         date: '2017/08/23',
         flag: '',
@@ -17,7 +17,7 @@ var pageDate = [{
     {
         img_src: './img/page/xiaomi.png',
         title: '小米商城官网',
-        dome_src: 'https://woshihuasheng.github.io/xiaomi/index',
+        dome_src: 'https://celesteweng.github.io/xiaomi/index',
         num: '查看：36次',
         date: '2017/07/23',
         flag: '',
@@ -25,7 +25,7 @@ var pageDate = [{
     {
         img_src: './img/page/js.png',
         title: '建设银行首页',
-        dome_src: 'https://woshihuasheng.github.io/js/index_js',
+        dome_src: 'https://celesteweng.github.io/js/index_js',
         num: '查看：40次',
         date: '2017/08/20',
         flag: '',
@@ -33,7 +33,7 @@ var pageDate = [{
     {
         img_src: './img/page/boot.png',
         title: '改版响应式网页',
-        dome_src: 'https://woshihuasheng.github.io/xiangying/index',
+        dome_src: 'https://celesteweng.github.io/xiangying/index',
         num: '查看：20次',
         date: '2017/08/28',
         flag: '',
@@ -41,7 +41,7 @@ var pageDate = [{
     {
         img_src: './img/page/app.png',
         title: '基于vue.js移动端app',
-        dome_src: 'https://woshihuasheng.github.io/app/index',
+        dome_src: 'https://celesteweng.github.io/app/index',
         num: '查看：30次',
         date: '2017/08/16',
         flag: '',
@@ -49,7 +49,7 @@ var pageDate = [{
     {
         img_src: './img/page/read.png',
         title: '网易云阅读首页',
-        dome_src: 'https://woshihuasheng.github.io/yunyuedu/index',
+        dome_src: 'https://celesteweng.github.io/yunyuedu/index',
         num: '查看：30次',
         date: '2017/07/16',
         flag: '',
@@ -57,7 +57,7 @@ var pageDate = [{
     {
         img_src: './img/page/pig.png',
         title: '小猪理财app_MUI',
-        dome_src: 'https://woshihuasheng.github.io/pig/main',
+        dome_src: 'https://celesteweng.github.io/pig/main',
         num: '查看：30次',
         date: '2017/07/26',
         flag: '',
